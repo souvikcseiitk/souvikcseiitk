@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Digital Image Forgery, IIT Kanpur](https://cdis.iitk.ac.in/image-forgery-detection/)
 
-- 💬 Ask me about **OS, COA, DSA **
+- 💬 Ask me about **OS, COA, DSA**
 
 - 📫 How to reach me **souvik@cse.iitk.ac.in**
 
