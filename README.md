@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.cse.iitk.ac.in/users/souvik/"><img width="50%" alt="Hello, I'm Souvik,AI | ML | CSE!" src="./header1.png" /></a></p>
+<p align="center"><a href="https://www.cse.iitk.ac.in/users/souvik/"><img width="50%" alt="Hello, I'm Souvik,AI | ML | CSE!" src="./header.png" /></a></p>
 
 <br />
 <h3 align="center">As a postgraduate student in Computer Science at IIT Kanpur, I focus on the areas of machine learning, deep learning, specifically in the domain of computer vision.</h3>
