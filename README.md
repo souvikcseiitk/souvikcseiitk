@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [My Resume](https://github.com/souvikcseiitk/my-CV/blob/main/Souvik_IITK_CSE_resume.pdf)
 
+- ✍️ My GATE CSE-2023 Experience [Medium](https://medium.com/@souvik33and37/gate-in-cse-it-roadmap-1e145c1de1cf) [Gateoverfllow](https://gateoverflow.in/blog/15215/my-gate-cse-2023-journey-for-future-aspirants)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/souvikcseiitk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/souvikcseiitk/" height="30" width="40" /></a>
